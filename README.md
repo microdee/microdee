@@ -30,7 +30,7 @@ And then people cheered when he said it. This sentence is just pure dystopian ev
 
 However the same Sam Altman unironically entertained the idea of "a dyson sphere this decade" in an interview, so process whatever else he says with that in mind.
 
-Jensen Huang CEO of NVidia had similar but less over-the-top quotes when he repeatedly talked about how in the future personal computing will vanish, and people will buy computing time from them. Most recently he pitched the ide
+Jensen Huang CEO of NVidia had similar but less over-the-top quotes when he repeatedly talked about how in the future personal computing will vanish, and people will buy computing time from them. Most recently he pitched the idea of "local clouds", where small rack of servers are directly in your living area, and you'd pay them rent to use it, much like your rental appartments.
 
 But zooming out to other AI heavy companies all their CEO's have said completely deranged things, some of them openly stating that "people will die because of their actions, and that's good". A big portion of efforts going into developing LLM's are done to please these people.
 
